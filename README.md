@@ -44,4 +44,8 @@ This project is licensed under the [MIT License](LICENSE), because sharing is ca
 
 ---
 
+<<<<<<< HEAD
 **DidWeReachAGI.com** - Keeping you updated with a gigantic NO since 2024.
+=======
+**DidWeReachAGI.com** - Keeping you updated with a gigantic NO since 2024.
+>>>>>>> 12b9bc0 (README.md)
